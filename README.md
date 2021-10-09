@@ -1,5 +1,5 @@
 # 課程查詢及選課輔助系統
-國立政治大學課程查詢系統(聊天機器人)  
+國立政治大學課程查詢系統 
 Linebot for NCCU course query system  
 
 ![image](https://github.com/CYXup6/Botest/blob/master/L.png)
